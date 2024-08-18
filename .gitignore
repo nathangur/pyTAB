@@ -10,3 +10,6 @@ output.json
 /dist/*
 
 .idea/*
+
+# Development Specific custom-file
+response.json
